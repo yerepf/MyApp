@@ -1,0 +1,34 @@
+.ProfilePic{
+    width: 12rem;
+    height: auto;
+    border-radius: 20px;
+    opacity: 0.75;
+   /* box-shadow: 0 0 20px rgba(255, 255, 255, 0.7); */
+}
+
+section{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    border-radius: 20px;
+    padding: 20px;
+    
+}
+
+.titulo{
+    margin-left: 20px;
+    font-size: 80px;
+    font-weight: bold;
+    background-image: linear-gradient(to right, purple, red);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    margin-bottom: 10px;
+}
+
+.titulos{
+    margin-left: 20px; /* Ajusta el margen según sea necesario */
+    text-align: center;
+}
